@@ -1,1 +1,7 @@
 
+#errorMessage{
+    color: red;
+}
+label, button{
+    display: block;
+}
